@@ -17,7 +17,8 @@ title: JM Robles Zencode
 email: chema@digitalilusion.com
 description: >- # this means to ignore newlines until "baseurl:"
   Loco por la tecnología, si compartes mi pasión, aquí te lo pasarás bien.
-  Backend, IoT y "cacharreo" por todos lados :)
+  Backend, IoT, LoRaWAN y "cacharreo" por todos lados :)
+  También escribo cosillas en Medium
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jmrobles
